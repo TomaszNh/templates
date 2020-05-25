@@ -3968,3 +3968,20 @@
 			width: 100%;
 			margin-bottom: 0;
 		}
+
+
+
+.image_us{
+	display: inline-block;
+	position:relative;
+	float: left;
+}
+.o_nas{
+	white-space: pre-line;
+	width: 100%;
+	text-align: center;
+}
+.option_pic{
+	display: inline-block;
+	float: center;
+}
