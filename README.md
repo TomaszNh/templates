@@ -1,0 +1,4 @@
+# templates
+Moja strona oparta o template's
+
+a gdzie cennik i galeria zdjęć ??????????
